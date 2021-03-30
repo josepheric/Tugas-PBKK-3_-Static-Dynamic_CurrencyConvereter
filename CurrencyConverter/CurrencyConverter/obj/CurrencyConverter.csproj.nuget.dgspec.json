@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "R:\\Tugas Sekolah\\Sems 6\\pbkk\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter.csproj": {}
+  },
+  "projects": {
+    "R:\\Tugas Sekolah\\Sems 6\\pbkk\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "R:\\Tugas Sekolah\\Sems 6\\pbkk\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter.csproj",
+        "projectName": "CurrencyConverter",
+        "projectPath": "R:\\Tugas Sekolah\\Sems 6\\pbkk\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter.csproj",
+        "packagesPath": "C:\\Users\\eric\\.nuget\\packages\\",
+        "outputPath": "R:\\Tugas Sekolah\\Sems 6\\pbkk\\CurrencyConverter\\CurrencyConverter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eric\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+R:\Tugas Sekolah\Sems 6\pbkk\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.csprojAssemblyReference.cache
+R:\Tugas Sekolah\Sems 6\pbkk\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.Form1.resources
+R:\Tugas Sekolah\Sems 6\pbkk\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.csproj.GenerateResource.cache
+R:\Tugas Sekolah\Sems 6\pbkk\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.AssemblyInfoInputs.cache
+R:\Tugas Sekolah\Sems 6\pbkk\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.AssemblyInfo.cs
+R:\Tugas Sekolah\Sems 6\pbkk\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.csproj.CoreCompileInputs.cache
+R:\Tugas Sekolah\Sems 6\pbkk\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.exe
+R:\Tugas Sekolah\Sems 6\pbkk\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.deps.json
+R:\Tugas Sekolah\Sems 6\pbkk\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.runtimeconfig.json
+R:\Tugas Sekolah\Sems 6\pbkk\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.runtimeconfig.dev.json
+R:\Tugas Sekolah\Sems 6\pbkk\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.dll
+R:\Tugas Sekolah\Sems 6\pbkk\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.pdb
+R:\Tugas Sekolah\Sems 6\pbkk\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.dll
+R:\Tugas Sekolah\Sems 6\pbkk\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.pdb
+R:\Tugas Sekolah\Sems 6\pbkk\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.genruntimeconfig.cache
